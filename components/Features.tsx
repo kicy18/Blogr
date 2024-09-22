@@ -13,7 +13,7 @@ const Features = () => {
              <Button label="Login" borderColor="border-[1px] border-black" textColor="text-black"/>
               </div>
         </div>
-        <div className="grid grid-cols-3 gap-[90px] py-[100px] ml-12">
+        <div className="grid grid-cols-3 gap-[90px] py-[80px] ml-12">
            <FeaturCard title="Upload & Organize" subtext="Upload in bulk, organize content in categories, add custom filters & upload extras." imgURL="Group (2).svg"/>
            <FeaturCard title="Stream On-Demand" subtext="Showcase your content in a beautiful on-demand video catalog.
 " imgURL="Vector (1).svg"/>
