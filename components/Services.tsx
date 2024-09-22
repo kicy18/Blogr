@@ -8,7 +8,7 @@ const Services = () => {
         <div className='  '>
 
             <div className='flex flex-col  py-11'>
-            <h1 className='text-white text-5xl font-bold text-center'>We help
+            <h1 className='text-white text-5xl font-bold text-center mt-5'>We help
             you grow</h1>
             <div className='flex flex-col'>
             <div className='flex flex-row justify-between py-[100px]'>
@@ -76,7 +76,7 @@ const Services = () => {
             </div>
             <div className='flex flex-col py-10'>
                 <div className='flex flex-col justify-center items-center'>
-                    <h1 className='text-4xl text-white font-bold'>Start your own business today</h1>
+                    <h1 className='text-5xl text-white font-bold'>Start your own business today</h1>
                     <p className='text-sm text-white mt-5'>Consistent quality and experience across all platforms and devices.</p>
                     <div className="flex flex-row gap-6 mt-14">
              <Button label="Get Started" variant="bg-white" textColor="text-black"/>

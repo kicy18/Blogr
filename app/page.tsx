@@ -2,6 +2,7 @@ import Features from '@/components/Features'
 import Hero from '@/components/Hero'
 import React from 'react'
 import Services from '@/components/Services'
+import Testimonial from '@/components/Testimonial'
 
 const page = () => {
   return (
@@ -9,6 +10,7 @@ const page = () => {
     <Hero/>
     <Features/>
     <Services/>
+    <Testimonial/>
     </>
     
   )
